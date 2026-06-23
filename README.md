@@ -1,5 +1,7 @@
 # HubSpot Agent CLI
 
+![HubSpot Agent CLI social preview](.github/assets/agent-cli-social-preview.png)
+
 The HubSpot Agent CLI is a command-line tool for AI agents and technical users who need to work directly with HubSpot CRM data from a local or agent workspace.
 
 This repository is the public home for HubSpot Agent CLI releases, version history, issue tracking, and documentation links. The CLI should be installed using the instructions and prompts included below.
