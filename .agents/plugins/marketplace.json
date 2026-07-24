@@ -1,7 +1,7 @@
 {
   "name": "agent-cli",
   "interface": {
-    "displayName": "HubSpot Agent CLI Skills"
+    "displayName": "HubSpot Agent CLI"
   },
   "plugins": [
     {
