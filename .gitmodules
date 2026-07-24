@@ -1,0 +1,3 @@
+[submodule "hubspot-agent-cli/skills"]
+	path = hubspot-agent-cli/skills
+	url = https://github.com/HubSpot/agent-cli-skills.git
